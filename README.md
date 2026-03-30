@@ -5,18 +5,18 @@ Ce dépôt regroupe l'ensemble de mes certifications obtenues en Cybersécurité
 ---
 
 ### 🏛️ Gouvernance, Risques & Conformité (GRC)
-* **[ISO/IEC 27001 Lead Auditor](./ISO27001LA-Mastermind)** (Mastermind) - *Mars 2026*
-* **Module 1 MOOC RGPD** (CNIL)
+* **[ISO/IEC 27001 Lead Auditor](./ISO27001LA-Mastermind.pdf)** (Mastermind) - *Mars 2026*
+* **[Module 1 MOOC RGPD](./Certificat_Module1-RGPD-CNIL.pdf)** (CNIL)
 * **Sécurité et gouvernance dans Microsoft Power Platform** (Microsoft) - *Déc. 2025*
 
 ### 🛡️ SOC, EDR & Analyse de Logs (Blue Team)
-* **[Wazuh](./https://app.letsdefend.io/my-rewards/detail/43b7c70a-b754-48fa-9781-33b30e3a8517)** (LetsDefend) - *Sept. 2025*
-* **[OpenEDR Fundamentals](./OpenEDR-Fundamentals-Certificate-Exam)** (Xcitium) - *Août 2025*
-* **[SOC Fundamentals](./https://app.letsdefend.io/my-rewards/detail/9d06e5ee-16fd-4129-932a-42331e0c3d1b)** (LetsDefend) - *Août 2025*
-* **[SIEM 101](./https://app.letsdefend.io/my-rewards/detail/54236025-5499-4217-9b00-806034b29f21)** (LetsDefend) - *Août 2025*
-* **[Log Analysis Basics](./https://app.cybrary.it/courses/api/certificate/CC-adf59a84-d2f7-4bd0-b4dd-5f1564133041/view)** (Cybrary) - *Août 2025*
-* **[Linux for Blue Team](./https://app.letsdefend.io/my-rewards/detail/1f38f946-528d-4264-bec8-79e5ff2f8dde)** (LetsDefend) - *Sept. 2025*
-* **[Windows Fundamentals](./https://app.letsdefend.io/my-rewards/detail/a5610f0e-fba7-4906-83e3-2a632a9c4d6)** (LetsDefend) - *Sept. 2025*
+* **[Wazuh](https://app.letsdefend.io/my-rewards/detail/43b7c70a-b754-48fa-9781-33b30e3a8517)** (LetsDefend) - *Sept. 2025*
+* **[OpenEDR Fundamentals](./OpenEDR-Fundamentals-Certificate-Exam.pdf)** (Xcitium) - *Août 2025*
+* **[SOC Fundamentals](https://app.letsdefend.io/my-rewards/detail/9d06e5ee-16fd-4129-932a-42331e0c3d1b)** (LetsDefend) - *Août 2025*
+* **[SIEM 101](https://app.letsdefend.io/my-rewards/detail/54236025-5499-4217-9b00-806034b29f21)** (LetsDefend) - *Août 2025*
+* **[Log Analysis Basics](https://app.cybrary.it/courses/api/certificate/CC-adf59a84-d2f7-4bd0-b4dd-5f1564133041/view)** (Cybrary) - *Août 2025*
+* **[Linux for Blue Team](https://app.letsdefend.io/my-rewards/detail/1f38f946-528d-4264-bec8-79e5ff2f8dde)** (LetsDefend) - *Sept. 2025*
+* **[Windows Fundamentals](https://app.letsdefend.io/my-rewards/detail/a5610f0e-fba7-4906-83e3-2a632a9c4d6)** (LetsDefend) - *Sept. 2025*
 
 ### 🏰 Écosystème Fortinet
 * **[Fortinet Certified Associate (FCA) Cybersecurity](./Lien-Vers-PDF)** - *Févr. 2026*
