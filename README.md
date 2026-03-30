@@ -16,7 +16,6 @@ Ce dépôt regroupe l'ensemble de mes certifications obtenues en Cybersécurité
 * **[SIEM 101](https://app.letsdefend.io/my-rewards/detail/54236025-5499-4217-9b00-806034b29f21)** (LetsDefend) - *Août 2025*
 * **[Log Analysis Basics](https://app.cybrary.it/courses/api/certificate/CC-adf59a84-d2f7-4bd0-b4dd-5f1564133041/view)** (Cybrary) - *Août 2025*
 * **[Linux for Blue Team](https://app.letsdefend.io/my-rewards/detail/1f38f946-528d-4264-bec8-79e5ff2f8dde)** (LetsDefend) - *Sept. 2025*
-* **[Windows Fundamentals](https://app.letsdefend.io/my-rewards/detail/a5610f0e-fba7-4906-83e3-2a632a9c4d6)** (LetsDefend) - *Sept. 2025*
 
 ### 🏰 Écosystème Fortinet
 * **[Fortinet Certified Associate (FCA) Cybersecurity](./Lien-Vers-PDF)** - *Févr. 2026*
@@ -29,7 +28,7 @@ Ce dépôt regroupe l'ensemble de mes certifications obtenues en Cybersécurité
 * **[Networking Academy Learn-A-Thon 2025](./Lien-Vers-PDF)** (Cisco) - *Janv. 2026*
 * **[Networking Basics](./Lien-Vers-PDF)** (Cisco) - *Sept. 2025*
 * **[Introduction à la Cybersécurité](./Lien-Vers-PDF)** (Cisco) - *Juil. 2025*
-* **[Windows Fundamentals](./Lien-Vers-PDF)** (LetsDefend) - *Sept. 2025*
+* **[Windows Fundamentals](https://app.letsdefend.io/my-rewards/detail/a5610f0e-fba7-4906-83e3-2a632a9c4d6)** (LetsDefend) - *Sept. 2025*
 
 ### 📊 Données, IA & Programmation
 * **[SQL Basic](./Lien-Vers-PDF)** (HackerRank) - *Déc. 2025*
